@@ -1,12 +1,6 @@
 import 'package:flutter/material.dart';
 import "package:cached_network_image/cached_network_image.dart";
 
-//void main() {
-//  runApp(const MaterialApp(
-//    home: Plantillapeli(),
-//  ));
-//}
-
 class Plantillapeli extends StatelessWidget {
   const Plantillapeli({Key? key});
 
